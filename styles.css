@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: Poppins, Helvetica, sans-serif;
+}
+
+#canvas1 {
+  width: 600px;
+  height: 600px;
+}
+
+#animationDescription {
+    font-size: xx-large;
+    font-weight: bold;
+}
